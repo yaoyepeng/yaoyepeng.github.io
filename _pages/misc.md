@@ -21,6 +21,8 @@ redirect_from:
 * LimeSDR(https://limemicro.com/products/boards/limesdr/)
 
 ## Picture Sharing
- ![image-center]({{ '/images/misc/mara1.JPG' | absolute_url }}){: .align-center}
 
- ![image-center]({{ '/images/misc/mara2.JPG' | absolute_url }}){: .align-center}
+ <img src='/images/misc/mara1.JPG' width=300 height=200 />
+
+ <img src='/images/misc/mara2.JPG' width=300 height=200 />
+
