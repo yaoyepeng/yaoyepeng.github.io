@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I am an assistance professor on Cyberspace Security at University of Chinese Academy of Sciences, China.
+Hi! I am an assistant professor on Cyberspace Security at University of Chinese Academy of Sciences, China.
 
 ---
 
@@ -48,6 +48,6 @@ contribution.
 Year | Institute | Major | State
 -----|-------|--------
 2010.09 -- current | University of Chinese Academy of Sciences (Beijing, China)  | Cyberspace Security | PhD. Candidate
-2010.09 -- 2014-                                  | University of Chinese Academy of Sciences (Beijing, China)  | Cyberspace Security | PhD. Candidate
-2006.09 -- 2010.06 | Capital Normal University (Beijing, China) | Intelligent Science and Technology at College of Information Engineering | Graduate
+2010.09 -- 2013.06 | Capital Normal Univ (Beijing, China)  | Computer Application Technology at College of Information Engineering | M.S.
+2006.09 -- 2010.06 | Capital Normal University (Beijing, China) | Intelligent Science and Technology at College of Information Engineering | B.S.
 
