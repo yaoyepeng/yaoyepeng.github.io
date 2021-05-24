@@ -10,16 +10,17 @@ redirect_from:
 
 
 
-Hi! I am a 4rd year student of Ph.D. candidate Cyberspace Security at University of Chinese Academy of Sciences, China.
+Hi! I am an assistance professor on Cyberspace Security at University of Chinese Academy of Sciences, China.
 
 ---
 
 ## Research Interest
 
-* Network Data Security 
-* Web Security
-* Graph-Theoretic and its Application to Information Security
-* Smart Contract
+My research interests include security problems in networks and large-scale networked systems. With behavioral analysis, machine learning and graph embedding methodologies, we can build more secure networked systems by: 
+
+* analyzing the effects of new attack vectors such as Internet routing attacks
+* enabling the network to detect and mitigate obfuscated attacks and insider attacks instead of relying on perimeter-based and signature-based protection
+
 
 ## Publications
 
@@ -34,14 +35,19 @@ Hi! I am a 4rd year student of Ph.D. candidate Cyberspace Security at University
 
 ## Achievements and Qualifications
 
-* Won the *11th* on **Big Data and Computing Intelligence Contest** hold by Institute of Computing Technology **2017**
-* Won the *23rd* on **Alibaba Tianchi Security algorithm Competition** **2017**
+* In Feb. 2018, I received the “Advanced Individual” award of Institute of Information Engineering for
+the security support for important conference.
+* In Apr. 2017, I received a thanks letter from one of the Ministries of China according to my
+contribution.
+* “Model Student of Outstanding Capacity” for the 2017-2018 school year, UCAS
+* “Model Student of Outstanding Capacity” for the 2016-2017 school year, UCAS
 
 
 ## Education
 
 Year | Institute | Major | State
 -----|-------|--------
-2016.09 -- current | University of Chinese Academy of Sciences (Beijing, China)  | Cyberspace Security | PhD. Candidate
-2012.09 -- 2016.06 | University of Science and Technology of China (Hefei, China) | Information Security in Computer Science | Graduate
+2010.09 -- current | University of Chinese Academy of Sciences (Beijing, China)  | Cyberspace Security | PhD. Candidate
+2010.09 -- 2014-                                  | University of Chinese Academy of Sciences (Beijing, China)  | Cyberspace Security | PhD. Candidate
+2006.09 -- 2010.06 | Capital Normal University (Beijing, China) | Intelligent Science and Technology at College of Information Engineering | Graduate
 
