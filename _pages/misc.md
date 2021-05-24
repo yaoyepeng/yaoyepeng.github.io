@@ -9,27 +9,18 @@ redirect_from:
 
 ## Personal
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
+* I grew up in Nanjing, Jiangsu and Hangzhou, Zhejiang before 6. At the age of 6, I moved to Henan, in which I live for 10 years.
+
 
 
 ## Interests
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* Geek Development
+* Marathon running
+* Raspberry Pi
+* LimeSDR(https://limemicro.com/products/boards/limesdr/)
 
-## Marathon running
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## Picture Sharing
+ ![image-center]({{ '/images/misc/mara1.JPG' | absolute_url }}){: .align-center}
+
+ ![image-center]({{ '/images/misc/mara2.JPG' | absolute_url }}){: .align-center}

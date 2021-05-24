@@ -47,7 +47,7 @@ contribution.
 
 Year | Institute | Major | State
 -----|-------|--------
-2010.09 -- current | University of Chinese Academy of Sciences (Beijing, China)  | Cyberspace Security | PhD. Candidate
+2010.09 -- current | University of Chinese Academy of Sciences (Beijing, China)  | Computer Software and Theory at Institute of Information Engineering | PhD. Candidate
 2010.09 -- 2013.06 | Capital Normal Univ (Beijing, China)  | Computer Application Technology at College of Information Engineering | M.S.
 2006.09 -- 2010.06 | Capital Normal University (Beijing, China) | Intelligent Science and Technology at College of Information Engineering | B.S.
 

@@ -5,12 +5,12 @@ permalink: /publication/2021-08-11-paper-Bookworm
 date: 2021-08-11
 venue: 'Security & Privacy'
 paperurl: 'https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1t0x9Hqia1G/pdf'
-citation: 'Chen Y, Yao Y, Wang X F, et al. Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis[J].'
+citation: 'Chen Y, Yao Y, Wang X F, et al. Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis[C]. Security & Privacy, 2021.'
 ---
 
 [Download paper here](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1t0x9Hqia1G/pdf)
 
-Recommended citation: Chen Y, Yao Y, Wang X F, et al. Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis[J].
+Recommended citation: Chen Y, Yao Y, Wang X F, et al. Bookworm Game: Automatic Discovery of LTE Vulnerabilities Through Documentation Analysis[C]. Security & Privacy, 2021.
 
 ## Abstract
 
